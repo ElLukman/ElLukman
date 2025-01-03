@@ -12,7 +12,7 @@ I’m **Lukman Ahmad**, a first-semester Informatics Engineering student at Poli
 - Developing a simple financial management system for students.  
 - Strengthening my programming foundations to explore AI and advanced technologies.  
 
-### 👯 I’m looking to collaborate on:  
+### 👥 I’m looking to collaborate on:  
 - Beginner-friendly programming projects.  
 - Machine learning experiments or educational tools.  
 
